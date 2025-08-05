@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket Price Calculator", "Ticket Price Calculator.csproj", "{01CA3B55-1DAD-4774-97BB-793D1234B77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01CA3B55-1DAD-4774-97BB-793D1234B77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CA3B55-1DAD-4774-97BB-793D1234B77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CA3B55-1DAD-4774-97BB-793D1234B77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CA3B55-1DAD-4774-97BB-793D1234B77D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936C5195-6F77-481D-B490-2D2611FA6B25}
+	EndGlobalSection
+EndGlobal
