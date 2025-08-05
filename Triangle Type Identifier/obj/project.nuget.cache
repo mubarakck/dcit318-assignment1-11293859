@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "samDkLIv+q4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mubarak\\source\\mubarakck\\dcit318-assignment1-11293859\\Triangle Type Identifier\\Triangle Type Identifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mubarak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\mubarak\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\mubarak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\mubarak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.18\\microsoft.netcore.app.host.win-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
